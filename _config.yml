@@ -1,0 +1,13 @@
+# basic options
+title: rleeAI
+author: Seung Jae (Ryan) Lee
+email: seungjaeryanlee@gmail.com
+description: Notes on Artificial Intelligence
+github_username:  seungjaeryanlee
+linkedin_username: seungjaeryanlee
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+permalink: pretty
