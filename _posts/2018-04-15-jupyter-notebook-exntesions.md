@@ -9,7 +9,7 @@ title: 주피터 노트북 확장 프로그램
 
 ## 지원하는 확장 프로그램들
 
-###Variable Inspector (변수 탐색기)
+### Variable Inspector (변수 탐색기)
 
 MATLAB을 사용하신 분들이라면 굉장히 친숙한 변수 탐색기입니다. 
 
