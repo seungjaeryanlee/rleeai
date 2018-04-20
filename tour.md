@@ -6,7 +6,7 @@ permalink: /tour
 **강화학습 견학** 은 강화학습을 둘러보고 싶은 사람들을 위한 강의 시리즈입니다. 이 강의 시리즈는 실습을 통해 이론을 이해하는 것을 목적으로 합니다.
 
 ### 1강. 강화학습의 기본요쇼
- - 실셰게에서의 강화학습 (Reinforcement Learning in Real Life)
+ - 실세게에서의 강화학습 (Reinforcement Learning in Real Life)
  - 상태와 행동 (State and Action)
  - 정책 (Policy)
  - 상태 변환 확률 (State Transition Probability)
