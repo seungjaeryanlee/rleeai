@@ -2,6 +2,9 @@
 layout: post
 title: 주피터 노트북 확장 프로그램 사용하기
 category: jupyter
+redirect_from:
+ - /2018/04/15/jupyter-notebook-extensions
+ - /2018/04/15/jupyter-notebook-extensions/
 ---
 
 **jupyter_contrib_nbextensions**는 몇십 가지의 확장 프로그램을 모아둔 패키지입니다. 그 중에서 특히 많이 찾으실 만한 확장 프로그램들은 다음과 같습니다.

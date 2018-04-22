@@ -2,6 +2,9 @@
 layout: post
 title: 주피터 노트북으로 발표하기 (nbconvert, RISE)
 category: jupyter
+redirect_from:
+ - /2018/04/19/jupyter-notebook-presentation
+ - /2018/04/19/jupyter-notebook-presentation/
 ---
 
 ## 주피터 nbconvert
