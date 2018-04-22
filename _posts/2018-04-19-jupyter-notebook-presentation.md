@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 주피터 노트북으로 발표하기 (nbconvert, RISE)
+category: jupyter
 ---
 
 ## 주피터 nbconvert
