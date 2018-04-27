@@ -15,3 +15,8 @@ permalink: /:categories/:title
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+
+# Disqus setup
+url: "https://www.rlee.ai"
+disqus:
+  shortname: rleeai
