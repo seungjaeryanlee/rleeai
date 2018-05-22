@@ -39,7 +39,7 @@ https://github.com/join
 
 ![새로운 저장소 만들기]({{ "assets/apt-github/new_repo.png" | absolute_url }})
 
-여기서 저장소 이름과 설명을 쓰고, 공개/비공개를 설정할 수 있습니다. 그리고 `README.md` 파일, `.gitignore` 파일, 그리고 `LICENSE` 파일을 저장소에 바로 추가할지 설정할 수 있습니다.
+여기서 저장소 이름과 설명을 쓰고, 공개/비공개를 설정할 수 있습니다. 그리고 `README.md` 파일, `.gitignore` 파일, 그리고 `LICENSE` 파일을 저장소에 바로 추가할지 설정할 수 있습니다. 우선은 `README` 파일만 체크하고 저장소를 만드는 것을 추천합니다.
 
 #### README
 
