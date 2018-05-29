@@ -7,15 +7,9 @@ permalink: /apt
 
 APT는 개인 프로젝트를 개발하면서 동시에 체계적인 코드와 개발 프로세스에 대해 배웁니다.
 
-## 프로젝트
-
-(추가 예정)
-
-## 체계적인 코드
-
-(추가 예정)
-
-## 개발 프로세스
+## 자료
 
 1. [Git](/apt/git)
 2. [GitHub](/apt/github)
+3. [Code Style](/apt/code-style)
+
